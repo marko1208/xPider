@@ -1,0 +1,116 @@
+button {
+  border: none;
+  padding: none;
+  background: none;
+  cursor: pointer;
+}
+
+button.btn1 {
+  padding: 13px 20px 13px 21px;
+  border-radius: 5px;
+  border: solid 2px #c9cdd5;
+  justify-self: flex-start;
+  font-size: 17px;
+  font-weight: bold;
+  text-align: center;
+  color: #7e8085;
+}
+
+button.btn1:hover {
+  padding: 15px 22px 13px 23px;
+  background-color: #2f5bea;
+  color: white;
+}
+
+button.btn1:active {
+  background-color: #879de6;
+}
+
+button.btn1:focus {
+  outline: none;
+}
+
+button.btn2 {
+  padding: 18px 36px 17px;
+  border-radius: 5px;
+  background-color: #2f5bea;
+  text-transform: uppercase;
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+  color: #ffffff;
+  -webkit-transition: background-color 1s;
+  transition: background-color 1s;
+}
+
+button.btn2:focus {
+  outline: none;
+  background-color: #fc5c42;
+}
+
+button.btn2:hover {
+  margin-top: -5px;
+  margin-left: 5px;
+}
+
+button.btn2:active {
+  background-color: #fc5c42;
+}
+
+button.btn3 {
+  padding: 18px 44px 17px 45px;
+  border-radius: 5px;
+  border: solid 1px #c9cdd5;
+  background-color: #ffffff;
+  font-family: Aileron;
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+  color: #54565a;
+}
+
+button.btn3:focus {
+  outline: none;
+}
+
+button.btn3:hover {
+  margin-top: -2px;
+  margin-left: 2px;
+}
+
+button.btn4 {
+  padding: 18px 36px 17px;
+  border-radius: 5px;
+  background-color: #ffffff;
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+  color: #2f5bea;
+}
+
+button.btn4:focus {
+  outline: none;
+}
+
+button.btn4:hover {
+  padding: 23px 41px 22px;
+  border-radius: 5px;
+}
+
+button.btn4:active {
+  background-color: #c0cdf8;
+}
+
+.arrow {
+  border: solid #7e8085;
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  padding: 3px;
+  margin-left: -10px;
+}
+
+.down {
+  transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+}
+/*# sourceMappingURL=button.css.map */
