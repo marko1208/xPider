@@ -1,0 +1,21 @@
+// base //
+@import "./styles/base/reset.scss";
+@import "./styles/base/variable.scss";
+@import "./styles/base/base.scss";
+@import "./styles/base/typography.scss";
+
+//components//
+@import "./styles/components/navigation.scss";
+@import "./styles/components/button.scss";
+@import "./styles/components/hero.scss";
+@import "./styles/components/creativity.scss";
+@import "./styles/components/build.scss";
+@import "./styles/components/howWork.scss";
+@import "./styles/components/unique.scss";
+@import "./styles/components/pricing.scss";
+@import "./styles/components/forFree.scss";
+@import "./styles/components/information.scss";
+*div,
+header {
+  border: 1px solid red;
+}

@@ -1,0 +1,26 @@
+.forFree {
+  background-image: url("./styles/img/Group 2.png");
+  display: -ms-grid;
+  display: grid;
+  justify-items: center;
+  padding-bottom: 133px;
+}
+
+.forFree h2 {
+  font-size: 34px;
+  font-weight: bold;
+  text-align: center;
+  color: #ffffff;
+  padding-top: 111px;
+  padding-bottom: 22px;
+}
+
+.forFree p {
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 1.89;
+  text-align: center;
+  color: #ffffff;
+  padding-bottom: 27px;
+}
+/*# sourceMappingURL=forFree.css.map */
