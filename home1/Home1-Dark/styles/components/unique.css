@@ -1,0 +1,160 @@
+.uniqueBlock .unique {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.uniqueBlock .unique img {
+  padding-top: 170px;
+}
+
+.uniqueBlock .unique .block {
+  padding-left: 405px;
+  padding-right: 133px;
+  padding-top: 217px;
+}
+
+.uniqueBlock .unique .block h2 {
+  font-size: 34px;
+  font-weight: bold;
+  color: #2c2e30;
+  padding-bottom: 38px;
+}
+
+.uniqueBlock .unique .block p {
+  font-size: 16px;
+  line-height: 1.75;
+  color: #54565a;
+  padding-bottom: 52px;
+}
+
+.uniqueBlock .unique .block footer {
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 1.89;
+  color: #2f5bea;
+  text-decoration: underline;
+}
+
+.uniqueBlock .unique img:hover {
+  margin-top: -100px;
+  margin-left: 20px;
+}
+
+.uniqueBlock .hand {
+  padding-left: 404px;
+  padding-right: 416px;
+  display: -ms-grid;
+  display: grid;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.uniqueBlock .hand h2 {
+  font-size: 34px;
+  font-weight: bold;
+  text-align: center;
+  color: #2c2e30;
+  padding-top: 170px;
+  padding-bottom: 22px;
+}
+
+.uniqueBlock .hand p {
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 1.89;
+  text-align: center;
+  color: #7e8085;
+  padding-bottom: 63px;
+}
+
+.uniqueBlock .hand .boxes {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.uniqueBlock .hand .boxes .box-1,
+.uniqueBlock .hand .boxes .box-2,
+.uniqueBlock .hand .boxes .box-3 {
+  border-radius: 5px;
+  -webkit-box-shadow: 0 2px 4px 0 rgba(44, 46, 48, 0.08);
+          box-shadow: 0 2px 4px 0 rgba(44, 46, 48, 0.08);
+  border: solid 1px #e7eaee;
+  background-color: #ffffff;
+  margin-right: 17px;
+  padding: 11px 15px 12px 16px;
+}
+
+.uniqueBlock .hand .boxes .box-1 h5,
+.uniqueBlock .hand .boxes .box-2 h5,
+.uniqueBlock .hand .boxes .box-3 h5 {
+  font-family: "NotoSerif";
+  font-size: 16px;
+  font-style: italic;
+  line-height: 1.75;
+  color: #7e8085;
+  padding-bottom: 49px;
+}
+
+.uniqueBlock .hand .boxes .box-1 article,
+.uniqueBlock .hand .boxes .box-2 article,
+.uniqueBlock .hand .boxes .box-3 article {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.uniqueBlock .hand .boxes .box-1 img,
+.uniqueBlock .hand .boxes .box-2 img,
+.uniqueBlock .hand .boxes .box-3 img {
+  width: 34px;
+  height: 34px;
+}
+
+.uniqueBlock .hand .boxes .box-3 article {
+  padding-top: 54px;
+}
+
+.uniqueBlock .hand .boxes .red {
+  width: 69px;
+  height: 56px;
+  padding-top: 226px;
+}
+
+.uniqueBlock .hand .boxes .box-1:hover {
+  margin-top: -10px;
+  -webkit-box-shadow: 2px 2px 2px 2px #bfbbbb;
+          box-shadow: 2px 2px 2px 2px #bfbbbb;
+}
+
+.uniqueBlock .hand .boxes .box-2:hover {
+  margin-top: -10px;
+  -webkit-box-shadow: 2px 2px 2px 2px #bfbbbb;
+          box-shadow: 2px 2px 2px 2px #bfbbbb;
+}
+
+.uniqueBlock .hand .boxes .box-3:hover {
+  margin-top: -10px;
+  -webkit-box-shadow: 2px 2px 2px 2px #bfbbbb;
+          box-shadow: 2px 2px 2px 2px #bfbbbb;
+}
+
+.uniqueBlock .testimonial {
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 1.89;
+  text-align: center;
+  color: #2f5bea;
+  text-decoration: underline;
+  padding-top: 37px;
+  padding-bottom: 127px;
+}
+
+.uniqueBlock .brands {
+  padding-left: 432px;
+  padding-right: 432px;
+  padding-bottom: 134px;
+}
+/*# sourceMappingURL=unique.css.map */

@@ -1,0 +1,47 @@
+.build {
+  display: flex;
+  background-color: #01081f;
+
+  img {
+    padding-top: 27px;
+    padding-left: 368px;
+  }
+
+  .describe {
+    padding-left: 95px;
+    h2 {
+      font-family: "Aileron";
+      font-size: 28px;
+      font-weight: bold;
+      color: #ffffff;
+      padding-top: 106px;
+    }
+
+    ul {
+      list-style: disc;
+      padding-left: 25px;
+
+      li {
+        font-family: "Aileron";
+        font-size: 16px;
+        line-height: 1.75;
+        color: #54565a;
+        padding-bottom: 20px;
+      }
+    }
+    p {
+      font-family: "NotoSerif";
+      font-size: 16px;
+      font-style: italic;
+      line-height: 1.75;
+      color: #54565a;
+      padding-bottom: 15px;
+    }
+    span {
+      font-family: "Aileron";
+      font-size: 16px;
+      font-weight: 600;
+      color: #2c2e30;
+    }
+  }
+}

@@ -1,0 +1,143 @@
+.pricing {
+  background-color: #f6f8f9;
+  display: grid;
+  justify-content: center;
+  align-content: center;
+
+  h2 {
+    font-family: "Aileron";
+    font-size: 34px;
+    font-weight: bold;
+    text-align: center;
+    color: #2c2e30;
+    padding-top: 122px;
+    padding-bottom: 22px;
+  }
+  p {
+    font-family: "Aileron";
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 1.89;
+    text-align: center;
+    color: #7e8085;
+  }
+  .free-trail {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 44px;
+    padding-top: 66px;
+
+    .trailone {
+      padding: 29px 0 46px;
+      border-radius: 5px;
+      box-shadow: 0 2px 4px 0 rgba(44, 46, 48, 0.05);
+      border: solid 1px #e7eaee;
+      background-color: #ffffff;
+      margin-right: 28px;
+      width: 382px;
+      height: 428px;
+      display: grid;
+      justify-content: center;
+
+      h1 {
+        font-family: "NotoSerif";
+        font-size: 60px;
+        font-weight: bold;
+        text-align: center;
+        color: #2f5bea;
+      }
+      article {
+        font-family: "Aileron";
+        font-size: 18px;
+        font-weight: 600;
+        line-height: 1.89;
+        text-align: center;
+        color: #7e8085;
+        padding-bottom: 34px;
+      }
+      .hrline {
+        border-top: 1px solid #e7eaee;
+      }
+
+      p {
+        font-family: "Aileron";
+        font-size: 16px;
+        line-height: 1.75;
+        text-align: center;
+        color: #7e8085;
+        padding-top: 30px;
+        padding-bottom: 24px;
+      }
+    }
+    .trailone:hover {
+      padding: 33px 5px 49px;
+      box-shadow: 2px 2px 2px 2px #5b7ce8;
+    }
+    .trailtwo {
+      padding: 29px 0 46px;
+      border-radius: 5px;
+      box-shadow: 0 2px 4px 0 rgba(44, 46, 48, 0.05);
+      border: solid 1px #e7eaee;
+      background-color: #2f5bea;
+      margin-right: 28px;
+      width: 382px;
+      height: 428px;
+      display: grid;
+      justify-content: center;
+
+      h1 {
+        font-family: "NotoSerif";
+        font-size: 60px;
+        font-weight: bold;
+        text-align: center;
+        color: #e7eaee;
+      }
+      article {
+        font-family: "Aileron";
+        font-size: 18px;
+        font-weight: 600;
+        line-height: 1.89;
+        text-align: center;
+        color: #e7eaee;
+        padding-bottom: 34px;
+      }
+      .hrline {
+        border-top: 1px solid #2f5bea;
+      }
+
+      p {
+        font-family: "Aileron";
+        font-size: 16px;
+        line-height: 1.75;
+        text-align: center;
+        color: #e7eaee;
+        padding-top: 30px;
+        padding-bottom: 24px;
+      }
+      .btn3 {
+        color: #2f5bea;
+      }
+    }
+    .trailtwo:hover {
+      padding: 33px 5px 49px;
+      box-shadow: 2px 2px 2px 2px #c1cae6;
+    }
+  }
+  a {
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 1.89;
+    text-align: center;
+    color: #2c2e30;
+    padding-bottom: 126px;
+  }
+  .imgblue {
+    position: absolute;
+    width: 158px;
+    height: 153px;
+    left: 463px;
+    top: 295px;
+    mix-blend-mode: normal;
+    opacity: 0.13;
+  }
+}

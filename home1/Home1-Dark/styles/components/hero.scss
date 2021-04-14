@@ -1,0 +1,47 @@
+.hero {
+  display: flex;
+  background-color: #01081f;
+
+  .creativity {
+    padding-left: 235px;
+    padding-top: 142px;
+    padding-right: 71px;
+    width: 937px;
+    img {
+      width: 429px;
+      height: 541px;
+    }
+  }
+  .business {
+    padding-top: 187px;
+    width: 983px;
+    padding-left: 406px;
+
+    h1 {
+      font-size: 48px;
+      color: #ffffff;
+      padding-bottom: 20px;
+    }
+    p {
+      font-size: 21px;
+      font-weight: 600;
+      line-height: 1.62;
+      color: #ffffff;
+    }
+    .started {
+      padding-top: 33px;
+    }
+    .watch-video {
+      display: flex;
+      padding-top: 32px;
+      img {
+        padding-right: 13px;
+      }
+
+      p {
+        font-size: 18px;
+        color: #7e8085;
+      }
+    }
+  }
+}

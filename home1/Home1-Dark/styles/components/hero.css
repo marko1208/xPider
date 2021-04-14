@@ -1,0 +1,58 @@
+.hero {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  background-color: #01081f;
+}
+
+.hero .creativity {
+  padding-left: 235px;
+  padding-top: 142px;
+  padding-right: 71px;
+  width: 937px;
+}
+
+.hero .creativity img {
+  width: 429px;
+  height: 541px;
+}
+
+.hero .business {
+  padding-top: 187px;
+  width: 983px;
+  padding-left: 406px;
+}
+
+.hero .business h1 {
+  font-size: 48px;
+  color: #ffffff;
+  padding-bottom: 20px;
+}
+
+.hero .business p {
+  font-size: 21px;
+  font-weight: 600;
+  line-height: 1.62;
+  color: #ffffff;
+}
+
+.hero .business .started {
+  padding-top: 33px;
+}
+
+.hero .business .watch-video {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding-top: 32px;
+}
+
+.hero .business .watch-video img {
+  padding-right: 13px;
+}
+
+.hero .business .watch-video p {
+  font-size: 18px;
+  color: #7e8085;
+}
+/*# sourceMappingURL=hero.css.map */

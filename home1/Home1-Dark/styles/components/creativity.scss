@@ -1,0 +1,76 @@
+.creativity {
+  background-color: #01081f;
+  h2 {
+    font-size: 34px;
+    font-weight: bold;
+    text-align: center;
+    color: #ffffff;
+    padding-top: 191px;
+    padding-bottom: 22px;
+  }
+  .kickstart {
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 1.89;
+    text-align: center;
+    color: #7e8085;
+    padding-bottom: 69px;
+  }
+
+  .glide {
+    padding-left: 115px;
+    padding-right: 100px;
+  }
+
+  .tool {
+    display: grid;
+    width: 300px;
+    height: 200px;
+
+    img {
+      align-self: flex-end;
+      justify-self: center;
+    }
+    p {
+      text-align: center;
+      font-size: 21px;
+      font-weight: bold;
+      color: #ffffff;
+    }
+  }
+
+  .tool2 {
+    display: grid;
+    width: 300px;
+    height: 200px;
+
+    p {
+      text-align: center;
+      font-size: 21px;
+      font-weight: bold;
+      color: #ffffff;
+    }
+
+    .path1 {
+      align-self: flex-end;
+      justify-self: center;
+    }
+  }
+}
+.tool3 {
+  display: grid;
+  width: 300px;
+  height: 200px;
+
+  p {
+    text-align: center;
+    font-size: 21px;
+    font-weight: bold;
+    color: #ffffff;
+  }
+
+  .path {
+    align-self: flex-end;
+    justify-self: center;
+  }
+}
